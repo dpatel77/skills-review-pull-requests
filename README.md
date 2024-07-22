@@ -13,6 +13,8 @@ _Collaborate and work together on GitHub._
 
 </header>
 
+This is my first suggestion.
+
 <!--
   <<< Author notes: Step 5 >>>
   Start this step by acknowledging the previous step.
